@@ -29,3 +29,6 @@ debug.log
 .env.local
 .env.*.local
 *.txt
+
+# Unsmushed images (unoptimized)
+*unsmushed*
