@@ -32,3 +32,5 @@ debug.log
 
 # Unsmushed images (unoptimized)
 *unsmushed*
+
+*.sql
