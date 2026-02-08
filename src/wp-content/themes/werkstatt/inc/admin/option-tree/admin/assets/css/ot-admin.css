@@ -3,11 +3,11 @@
   ---------------------------------------------------*/
 @font-face {
   font-family: "option-tree-font";
-  src:url("/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/fonts/option-tree-font.eot");
-  src:url("/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/fonts/option-tree-font.eot#iefix") format("embedded-opentype"),
-    url("/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/fonts/option-tree-font.woff") format("woff"),
-    url("/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/fonts/option-tree-font.ttf") format("truetype"),
-    url("/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/fonts/option-tree-font.svg#option-tree-font") format("svg");
+  src:url("https://cindygomez.es/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/fonts/option-tree-font.eot");
+  src:url("https://cindygomez.es/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/fonts/option-tree-font.eot#iefix") format("embedded-opentype"),
+    url("https://cindygomez.es/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/fonts/option-tree-font.woff") format("woff"),
+    url("https://cindygomez.es/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/fonts/option-tree-font.ttf") format("truetype"),
+    url("https://cindygomez.es/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/fonts/option-tree-font.svg#option-tree-font") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -1698,7 +1698,7 @@
 #option-tree-settings-api pre code {
   padding: 0 18px 18px 18px;
   display: block;
-  background: url(/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/images/ot-pre-bg.gif) repeat left top;
+  background: url(https://cindygomez.es/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/images/ot-pre-bg.gif) repeat left top;
 }
 
 /* -------------------------------------------------- 
@@ -2218,7 +2218,7 @@ li ul .format-setting-label {
   :: Select
   ---------------------------------------------------*/
 .select-wrapper {
-  background: #fff url(/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/images/ot-select.png) no-repeat right center;
+  background: #fff url(https://cindygomez.es/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/images/ot-select.png) no-repeat right center;
   border: 1px solid #ccc;
   display: block;
   float: left;
@@ -2238,7 +2238,7 @@ li ul .format-setting-label {
           box-sizing: border-box;
 }
 .select-wrapper:hover {
-  background-image: url(/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/images/ot-select-hover.png);
+  background-image: url(https://cindygomez.es/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/images/ot-select-hover.png);
   border-color: #999;
 }
 select.option-tree-ui-select {

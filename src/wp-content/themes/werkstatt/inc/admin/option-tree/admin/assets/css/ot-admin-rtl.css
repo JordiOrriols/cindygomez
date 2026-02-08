@@ -322,7 +322,7 @@ div.option-tree-ui-media-wrap {
   :: Select
   ---------------------------------------------------*/
 .select-wrapper {
-  background: #fff url(/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/images/ot-select-rtl.png) no-repeat left center;
+  background: #fff url(https://cindygomez.es/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/images/ot-select-rtl.png) no-repeat left center;
   float: right;
   margin: 0 0 5px 5px;
   -moz-box-shadow: inset -1px 1px 1px rgba(0, 0, 0, 0.05);
@@ -330,7 +330,7 @@ div.option-tree-ui-media-wrap {
   box-shadow: inset -1px 1px 1px rgba(0, 0, 0, 0.05);
 }
 .select-wrapper:hover {
-  background-image: url(/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/images/ot-select-hover-rtl.png);
+  background-image: url(https://cindygomez.es/wp-content/themes/werkstatt/inc/admin/option-tree/admin/assets/images/ot-select-hover-rtl.png);
 }
 .select-wrapper span {
   padding-left: 27px;
